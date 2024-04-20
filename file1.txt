@@ -1,5 +1,6 @@
 hello
 world 
-! 
+here we type to resolve conflicts 
+imagine here is login code :)
 
 password README.md file1.txt
