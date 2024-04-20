@@ -2,4 +2,7 @@ hello
 world 
 ! 
 this is logout screen :)
+here we type to resolve conflicts 
+imagine here is login code :)
+
 password README.md file1.txt
