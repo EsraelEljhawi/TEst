@@ -1,5 +1,14 @@
 hello
 world 
+<<<<<<< HEAD
 ! 
+this is logout screen 
+here we type to resolve conflicts 
+imagine here is login code 
+if you know you know 
+=======
+here we type to resolve conflicts 
+imagine here is login code :)
 
+>>>>>>> 7defd8a (add login page)
 password README.md file1.txt
