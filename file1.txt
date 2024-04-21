@@ -1,11 +1,8 @@
 hello
 world 
 ! 
-this is logout screen :)
+this is logout screen 
 here we type to resolve conflicts 
 imagine here is login code 
-if you know you know 
-here we type to resolve conflicts 
-imagine here is login code :)
 if you know you know 
 password README.md file1.txt
